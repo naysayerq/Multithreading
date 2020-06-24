@@ -1,0 +1,41 @@
+2019-10-14 search is started at - 2020-06-24T14:52:54.029
+2019-10-14 search is OVER at - 2020-06-24T14:52:55.029. duration - 998
+lines amount - 1
+2019-10-16 search is started at - 2020-06-24T14:52:55.029
+2019-10-16 search is OVER at - 2020-06-24T14:52:55.901. duration - 872
+lines amount - 1
+2019-10-17 search is started at - 2020-06-24T14:52:55.901
+2019-10-17 search is OVER at - 2020-06-24T14:52:56.796. duration - 895
+lines amount - 1
+2019-10-18 search is started at - 2020-06-24T14:52:56.796
+2019-10-18 search is OVER at - 2020-06-24T14:52:57.666. duration - 870
+lines amount - 0
+2019-10-19 search is started at - 2020-06-24T14:52:57.666
+2019-10-19 search is OVER at - 2020-06-24T14:52:58.532. duration - 866
+lines amount - 0
+
+Total duration in standart way is: 4503 milliseconds
+
+2019-10-14 search is started at - 2020-06-24T14:52:58.533
+
+Total duration of threads is 1 milliseconds
+
+2019-10-16 search is started at - 2020-06-24T14:52:58.534
+
+Multi-threading is faster for 4502 milliseconds
+
+2019-10-17 search is started at - 2020-06-24T14:52:58.534
+2019-10-18 search is started at - 2020-06-24T14:52:58.534
+2019-10-19 search is started at - 2020-06-24T14:52:58.534
+2019-10-18 search is OVER at - 2020-06-24T14:52:59.574. duration - 1040
+lines amount - 0
+2019-10-16 search is OVER at - 2020-06-24T14:52:59.574. duration - 1040
+lines amount - 1
+2019-10-17 search is OVER at - 2020-06-24T14:52:59.583. duration - 1049
+lines amount - 1
+2019-10-14 search is OVER at - 2020-06-24T14:52:59.586. duration - 1053
+lines amount - 1
+2019-10-19 search is OVER at - 2020-06-24T14:52:59.595. duration - 1061
+lines amount - 0
+
+Process finished with exit code 0
